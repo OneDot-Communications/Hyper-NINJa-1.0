@@ -33,7 +33,7 @@ Join our community on Telegram: [t.me/noobninja_os](https://t.me/noobninja_os)
 **Support NinjA OS:**
 
 Help keep our project active and running by donating:
-- **UPI:** dwarmachine24@oksbi
+- **UPI:** noobninja@paytm
 - **PayPal:** [Donate via PayPal](https://www.paypal.me/Divith123)
 - **Patreon:** [Early Build Access & Support](https://www.patreon.com/join/uglykid24)
 
